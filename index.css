@@ -22,7 +22,7 @@ main{
     justify-content: center;
     align-items: center;
     background-color: black;
-    background: url('https://image.freepik.com/free-vector/sky-background-pastel-color_56745-158.jpg');
+    background: url('../assets/background_image.jpg');
     background-color : black;
     background-repeat: no-repeat;
     background-size: cover;
@@ -32,7 +32,7 @@ main{
 .game-quiz-container{
     width: 40rem;
     height: 30rem;
-    background-color: #dba553;
+    background-color: lightgray;
     display: flex;
     flex-direction: column;
     align-items: center;
